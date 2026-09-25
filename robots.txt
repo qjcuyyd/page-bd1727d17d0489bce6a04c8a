@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.mxd5lc.cn/sitemap.xml
